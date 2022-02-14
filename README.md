@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoolCatMcGee
-- 👀 I’m interested in getting my money up/
+- 👀 I’m interested in getting my money up
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a whole lotta nothing.
 - 📫 How to reach me: meet me at ChickFilA.
